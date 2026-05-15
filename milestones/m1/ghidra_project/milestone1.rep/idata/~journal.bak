@@ -1,7 +1,0 @@
-IADD:00000000:/vuln_strcpy_O0
-IDSET:/vuln_strcpy_O0:c0a81fe9c2d269517372522604
-IADD:00000001:/vuln_strcpy_O2
-IDSET:/vuln_strcpy_O2:c0a81fe92d9270281823194900
-IDEL:/vuln_strcpy_O2
-IADD:00000002:/vuln_strcpy_O2
-IDSET:/vuln_strcpy_O2:c0a81feaa95270796420636325

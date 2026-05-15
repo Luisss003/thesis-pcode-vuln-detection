@@ -1,0 +1,11 @@
+
+# Ghidra projects
+*.gpr
+*.rep/
+ghidra_project/
+ghidra_projects/
+
+# Generated binaries
+milestones/*/build/vuln_*
+!milestones/*/build/*.c
+!milestones/*/build/*.asm
