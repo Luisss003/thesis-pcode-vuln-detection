@@ -1,3 +1,4 @@
+# THIS PROJECT IS ABANDONED
 # P-code Vulnerability Detection Thesis
 This repo is for my master's thesis on binary vulnerability detection using Ghidra high P-code as an intermediate representation.
 
